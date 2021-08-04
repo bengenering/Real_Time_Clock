@@ -4,14 +4,6 @@
 ;
 ;                   For Keil/ A51 Macro Assembler
 ;
-;   PS: Use only A51 Macro assembler for linking this file
-;       else you can directly use the hex file provided.
-;
-;       And if in anycase you want to edit the code then
-;       you have to use an alternative to write the macros
-;       defined in the file. In my opinion you dont need to
-;       edit it.
-;
 ;***********************************************************
 
 hold macro
